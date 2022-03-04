@@ -32,7 +32,7 @@ body{
   position: relative;
   top: 14px;
 }
-.comments p:first-child{
+.comments h1{
   margin: 0 auto;
   padding:3%;
   font-family: 'Luxurious Roman', cursive;
@@ -78,9 +78,9 @@ top: 34px;
             top: 7px;
         }
         #main{
-            width:334px;
+            width:320px;
         }
-        p:first-child{
+        h1{
 
             width: 261px;
         }
