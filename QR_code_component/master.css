@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Outfit:wght@700&display=swap');
+
+
+
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: black;
+    height: auto;
+    background-color:  hsl(212, 45%, 89%);
+
+  }
+
+section{
+  margin: 0 auto;
+      text-align: center;
+      background-color: hsl(0, 0%, 100%);
+      border-radius: 3%;
+      height: 536px;
+      position: relative;
+      top: 5em;
+      max-width: 385px;
+      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#QR{
+  padding: 3%;
+  border-radius: 6%;
+  width: 348px;
+  margin: 0 auto;
+}
+.comments p:first-child{
+  margin: 0 auto;
+  padding:3%;
+  font-family: 'Luxurious Roman', cursive;
+  font-weight: 700;
+  font-size: 18px;
+  width: 261px;
+  color: hsl(218, 44%, 22%);
+
+}
+.comments p:last-child{
+  font size: 15px;
+  font-family: 'Luxurious Roman', cursive;
+  font-weight: 400;
+  text-align: center;
+  font-size: 15px;
+  margin: auto;
+  width: 250px;
+    color:hsl(220, 15%, 55%);
+}
+.attribution {
+  font-size: 11px;
+    text-align: center;
+    position: absolute;
+    bottom: 27px;
+    left: 26px;
+}
+  .attribution a { color: hsl(228, 45%, 44%);
+}
+@media only screen and (max-width:375px){
+
+        #QR{
+            position: relative;
+            padding: 3%;
+            border-radius: 6%;
+            width: 299px;
+            margin: 0 auto;
+            top: 7px;
+        }
+        section{
+            width:334px;
+        }
+        p:first-child{
+
+            width: 261px;
+        }
+        p:last-child{
+
+          margin: auto;
+          width: 250px;
+
+        }
+
+}
