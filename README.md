@@ -32,8 +32,8 @@ I'm open for any feedback or recommendations .
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/qrcodecompomentflexbox-Is7Q5qtIH)
+- Live Site URL: [I used :netlify.app](https://agitated-darwin-e86b0a.netlify.app/)
 
 
 ### Built with
