@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 I really like this project because it helps me extent
-my skills in responsive design and i really enjoyed.
+my skills in responsive design and I really enjoyed.
 I'm open for any feedback or recommendations .
 
 ### Screenshot
